@@ -11,6 +11,7 @@ public class Testing {
 			return;
 		}else {
 			System.out.println(a);
+			System.out.println(a);
 			printFun(a-1);
 			System.out.println(a);
 			return;
